@@ -9,3 +9,5 @@ Solo project submission for my very first hackathon Hack & Roll 2021 😄
 4. Now, another mole will flash and you will have to click the previous mole and the current mole.
 5. Game continues until you mess up the pattern
 6. Have fun! 😁
+
+Tryout link: https://xsaints19x.github.io/Memory-whack-a-mole/
